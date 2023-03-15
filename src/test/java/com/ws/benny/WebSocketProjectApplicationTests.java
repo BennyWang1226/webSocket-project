@@ -8,6 +8,7 @@ class WebSocketProjectApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println(1/0);
     }
 
 }
